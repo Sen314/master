@@ -1,0 +1,7 @@
+<?php
+
+/* 
+  * TEST
+ */
+
+ echo "toto";
